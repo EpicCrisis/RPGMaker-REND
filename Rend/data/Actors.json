@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Vokz_Battle","characterIndex":0,"characterName":"VokzHeroes_Walk","classId":1,"equips":[5,0,5,5,0],"faceIndex":0,"faceName":"VokzHeroes","traits":[{"code":32,"dataId":4,"value":0.1}],"initialLevel":2,"maxLevel":90,"name":"Voz","nickname":"","note":"","profile":"A small time thief unbeknownst to her potential; all\nshe needs is a catalyst to spark her interest."},
+{"id":2,"battlerName":"Dragoz_Battle","characterIndex":1,"characterName":"VokzHeroes_Walk","classId":2,"equips":[2,0,6,6,0],"faceIndex":1,"faceName":"VokzHeroes","traits":[{"code":22,"dataId":7,"value":0.05},{"code":23,"dataId":0,"value":1.05}],"initialLevel":3,"maxLevel":90,"name":"Dragoz","nickname":"","note":"","profile":"A savage killer born to be a hired mercenary, all he\nseeks is wealth and glory, and possibly women."},
+{"id":3,"battlerName":"Nina_Battle","characterIndex":2,"characterName":"VokzHeroes_Walk","classId":3,"equips":[0,8,8,0,0],"faceIndex":2,"faceName":"VokzHeroes","traits":[{"code":22,"dataId":1,"value":0.15}],"initialLevel":2,"maxLevel":90,"name":"Nina","nickname":"","note":"","profile":"An apparition which conjured it's manifestation unto\nthe world, only to find itself a slave to others."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
